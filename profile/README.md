@@ -11,7 +11,7 @@ Fortress Software Solutions (FSS) is an independent software studio in Athens, G
 
 ## Own products
 
-- **[Meadhall Character Builder](https://github.com/fortress-soft/meadhall)** (open source): a self-hostable, multi-user server edition of the Borealis D&D 5e character builder. It adds accounts and parties, a DM combat and encounter tracker, a spell engine and bring-your-own-AI assistant tools over MCP. It ships as a Docker image and as Android, iOS and desktop builds. Built with Rust (Axum, sqlx), React/TypeScript and Tauri 2.
+- **[Borealis Connect](https://github.com/fortress-soft/borealis-connect)** (open source): a self-hostable, multi-user server edition of the Borealis D&D 5e character builder. It adds accounts and parties, a DM combat and encounter tracker, a spell engine and bring-your-own-AI assistant tools over MCP. It ships as a Docker image and as Android, iOS and desktop builds. Built with Rust (Axum, sqlx), React/TypeScript and Tauri 2.
 - **ProveYourLag** (in development): a network-latency evidence tool for gamers on Windows, Linux and Docker. It records latency before, during and after a lag spike and exports PDF, CSV and JSON reports that can be shared with an ISP.
 
 ## Open-source contributions
