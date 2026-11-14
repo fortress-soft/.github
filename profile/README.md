@@ -1,6 +1,6 @@
 # Fortress Software Solutions
 
-A small software studio in Athens, run by Evangelos Panos.
+Software solutions for businesses and their customers, from Athens.
 
 ## Clients
 
